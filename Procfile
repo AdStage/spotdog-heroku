@@ -1,1 +1,1 @@
-spotdog: bundle exec spotdog requests
+spotdog: bundle exec spotdog
