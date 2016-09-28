@@ -1,9 +1,9 @@
 GIT
   remote: https://105eace562c26e605c4aaab6cbcbd719972b6a0b:x-oauth-basic@github.com/AdStage/spotdog.git
-  revision: b565114a28432871b6eddf823cb623c2c763d322
+  revision: 6e3419223346bc33d7cf6b5732bc164d7e714375
   branch: master
   specs:
-    spotdog (1.0.1)
+    spotdog (1.0.2)
       aws-sdk (~> 2.1.15)
       dogapi
       thor
