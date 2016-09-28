@@ -1,3 +1,13 @@
+GIT
+  remote: https://105eace562c26e605c4aaab6cbcbd719972b6a0b:x-oauth-basic@github.com/dtan4/spotdog.git
+  revision: 4974b75a63a3d1c516cd74b5ddaa1a3a26f603ff
+  branch: master
+  specs:
+    spotdog (0.2.1)
+      aws-sdk (~> 2.1.15)
+      dogapi
+      thor
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -11,17 +21,13 @@ GEM
       multi_json
     jmespath (1.3.1)
     multi_json (1.12.1)
-    spotdog (0.2.1)
-      aws-sdk (~> 2.1.15)
-      dogapi
-      thor
     thor (0.19.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  spotdog
+  spotdog!
 
 BUNDLED WITH
    1.13.1
